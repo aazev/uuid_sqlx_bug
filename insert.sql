@@ -6,7 +6,7 @@ CREATE TABLE characters (
 );
 
 
-INSERT INTO charaacters (id, api_token, name, email)
+INSERT INTO characters (id, api_token, name, email)
 VALUES
 (1, 'f7b5f8dc-705b-44af-aaf9-d6ebec6f5188', 'Naruto Uzumaki', 'ramenlover_naruto@leafvillage.com'),
 (2, 'dc5d9734-728c-4d7c-9248-a1317cb29783', 'Sasuke Uchiha', 'emoavenger_sasuke@shariganshadow.net'),
